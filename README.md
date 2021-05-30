@@ -46,9 +46,8 @@ Membuat file koneksi database
 ![2 kode tes koneksi](https://user-images.githubusercontent.com/81503668/120115412-bc71a700-c1ad-11eb-8a7f-e4ad9b47eebe.JPG)
 
 Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan 
-koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
+koneksi berhasil, uncomment pada perintah echo ![tes koneksi](https://user-images.githubusercontent.com/81503668/120115468-f80c7100-c1ad-11eb-958a-a78365c20a3b.JPG) “koneksi berhasil”;
 
-![tes koneksi](https://user-images.githubusercontent.com/81503668/120115468-f80c7100-c1ad-11eb-958a-a78365c20a3b.JPG)
 
 Bila koneksi berhasil maka akan muncul tampilan seperti berikut :
 
